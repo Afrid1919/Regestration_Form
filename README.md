@@ -1,4 +1,5 @@
 # Regestration_Form
+Regestration_Form in HTML,CSS,JavaScript
 Project Description
 The Registration Form Project is a simple web application that allows users to register by providing their basic information. The project aims to demonstrate the implementation of a user registration form using java-Swing and AWT and MySQL . This README file provides an overview of the project, its features, setup instructions, and usage guidelines.
 
